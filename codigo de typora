@@ -1,0 +1,28 @@
+calcular las componentes de los vectores:
+
+$\vec AB$, $\vec BC$, $\vec CA$
+donde $\vec A$=(4,1)  $\vec B$=(-3,0)  $\vec C$=(5,-2)
+
+se realiza la suma de los vectores
+
+$\vec AB$= $\vec A$= (4,1)  + $\vec  B$= (3,0) = (1,1)
+
+$\vec BC$= (3,0)  + $\vec  C$= (5,2) = (2,-2)
+
+$\vec CA$= (5,2)  + $\vec  A$= (4,1) = (9,-1)
+
+
+calcular los componentes de los vectores:
+
+$\vec MN$, $\vec MP$, $\vec NP$,
+donde $\vec M$ = (1,2,3,) $\vec N$ = (0,4,-1) $\vec P$ = (1,-2,-2)
+
+se realiza la suma de vectores
+
+$\vec MN$= $\vec M$= (1,2,3)  + $\vec  N$= (0,4,-1) = (1,6,2)
+
+$\vec MP$= $\vec M$= (1,2,3)  + $\vec  P$= (1,-2,-2) = (2,0,1)
+
+$\vec NP$= $\vec N$= (0,4,-1)  + $\vec  P$= (1,-2,-2) = (1,2,-3)
+
+
